@@ -1,0 +1,2 @@
+# LatihanGIMP.
+Latihan GIMP
